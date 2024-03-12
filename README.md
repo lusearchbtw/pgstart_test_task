@@ -53,3 +53,7 @@ This project uses the Check library for unit testing. Make sure to install it be
 ```
 $ apt install check
 ```
+
+### P.S.
+
+The code was written with the assumption that math.h `IS` the `multifunctional math module` that already has the sqrt() function implemented.
